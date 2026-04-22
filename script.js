@@ -26,4 +26,19 @@ function toggleDarkMode() {
 }
 
 //calling the function to apply the saved theme when the page loads
-applySavedTheme();
+document.getElementById("signup").addEventListener("submit", function(event) {
+    var p1 = document.getElementById("pwd01").value;
+    var p2 = document.getElementById("pwd02").value;
+
+    if (p1 !== p2) {
+        event.preventDefault(); 
+        alert("password do not match");
+    }
+});
+
+function validateform() {
+    var  x = document.forms["signin"]["email"].value;
+    if(x == ""){
+        window.alert("email must be filled");
+    }
+}
