@@ -6,3 +6,15 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+/* adding dark / light theme styles for javasript assignment 2 */
+.dark-theme {
+    background-color: #1a1a1a !important; 
+    color: white !important;               
+}
+
+/* option for more readable text */
+.dark-theme article {
+    border: 1px solid white;
+}
