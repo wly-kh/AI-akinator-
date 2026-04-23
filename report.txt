@@ -1,0 +1,10 @@
+description 
+The King Abdulaziz University (KAU) AI Chatbot is an intelligent digital assistant that utilizes deductive logic, similar to the Akinator concept, to provide information.
+The project leverages artificial intelligence to help students and visitors find accurate answers to their inquiries regarding academic programs, administrative services, and university facilities through a smooth, interactive conversation.
+
+The bot aims to simplify information access within the campus and provide a 24/7 digital guide, enhancing technical efficiency and offering an organized user experience for the KAU community.
+ It covers a wide range of inquiries, from admission and registration procedures to specific details about campus locations and services.
+
+
+
+our github link https://github.com/wly-kh/AI-akinator-
